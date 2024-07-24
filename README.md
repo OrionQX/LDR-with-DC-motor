@@ -1,7 +1,5 @@
 # LDR-with-DC-motor
 
-Fotodiyotlu DC Motor
-
 int LDR = A2; 
 int motorPin1 = 9; 
 int motorPin2 = 10; 
